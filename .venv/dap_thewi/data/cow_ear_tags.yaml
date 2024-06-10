@@ -1,5 +1,0 @@
-train: data/images/train
-val: data/images/val
-
-nc: 1  # number of classes
-names: ['ear_tag']  # class names
